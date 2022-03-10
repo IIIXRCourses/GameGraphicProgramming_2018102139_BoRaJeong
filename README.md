@@ -7,4 +7,4 @@
 소프트웨어융합학과 2018102139 정보라
 
 ### Development
-Visual studio, DirectX 11
+Visual Studio, DirectX 11
